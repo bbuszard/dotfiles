@@ -91,7 +91,7 @@ fi
 #alias ll='ls -l'
 #alias la='ls -A'
 #alias l='ls -CF'
-alias cl='clang++ std=c++14
+alias cl='clang++ -std=c++14'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
