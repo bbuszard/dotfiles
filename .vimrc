@@ -1,10 +1,5 @@
-"set expandtab
-"set softtabstop=4
-
-"setlocal fo+=aw
-"if has("autocmd")
-"    filetype plugin indent on
-"endif
-
+set tabstop=9
+set softtabstop=0
+set expandtab
 set shiftwidth=4
-set tabstop=4
+set smarttab
